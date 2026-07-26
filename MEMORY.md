@@ -1,0 +1,1 @@
+- [user_profile](user_profile.md) — Mason's role, preferences, tech stack, and how he likes to collaborate with agents
