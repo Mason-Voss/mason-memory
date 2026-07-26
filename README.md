@@ -24,7 +24,3 @@ This repo serves two purposes:
 - Memory is written to disk, not kept in conversation context
 - Every "I'll remember that" has a file path attached
 - No TODOs left for the user to fill in — ask directly
-
----
-
-Built with [Codex](https://codex.so).
